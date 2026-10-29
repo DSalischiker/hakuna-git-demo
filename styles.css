@@ -1,0 +1,41 @@
+body {
+  margin: 0;
+  font-family: Inter, system-ui, sans-serif;
+  background: #0c0c0c;
+  color: #ffffff;
+}
+
+.hero {
+  max-width: 720px;
+  padding: 96px 24px;
+  margin: 0 auto;
+}
+
+.label {
+  font-family: "JetBrains Mono", monospace;
+  font-size: 12px;
+  letter-spacing: 0.3em;
+  text-transform: uppercase;
+  color: #35fd2e;
+}
+
+h1 {
+  font-size: 64px;
+  letter-spacing: -0.05em;
+  margin: 16px 0;
+}
+
+.lead {
+  font-size: 20px;
+  line-height: 1.6;
+  color: rgba(255, 255, 255, 0.8);
+}
+
+.btn-primary {
+  background: #35fd2e;
+  color: #0c0c0c;
+  border: none;
+  padding: 12px 24px;
+  font-size: 16px;
+  font-weight: 600;
+}
